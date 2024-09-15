@@ -6,7 +6,7 @@ Welcome to my manuals repository. This repository contains comprehensive guides 
 
 ### General
 
-- [**Importing GitLab Repositories to GitHub**](General/Import-Repos-To-GitHub.md): Methods to migrate your GitLab repository activity to GitHub, ensuring your GitHub history reflects your work.
+- [**Importing GitLab Repositories to GitHub**](General/Import-Gitlab-Repositories-To-Github.md): Methods to migrate your GitLab repository activity to GitHub, ensuring your GitHub history reflects your work.
 
 ### Frontend
 
