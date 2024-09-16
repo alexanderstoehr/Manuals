@@ -8,6 +8,14 @@ This documentation outlines:
 - Importing repositories from your GitLab account to GitHub.
 - Migrating group projects and final projects to GitHub.
 
+## Migrate Activity from Gitlab to Github
+This is my activity on Github before and after the migration.
+
+| Activity before mogration | Activity after migration |
+| --- | --- |
+| ![github-before-migration.png](../Images/github-before-migration.png) | ![github-after-migration.png](../Images/github-after-migration.png) |
+
+
 ## Prerequisites
 
 - GitLab and GitHub accounts.
@@ -39,9 +47,9 @@ This documentation outlines:
 
 ## Questions and Issues
 
-If you have any questions or encounter any issues while following this guide, feel free to open an issue on the repository or ask your questions. We are here to help!
+If you have any questions or encounter any issues while following this guide, feel free to open an issue on the repository or ask your questions.
 
 - **Open an Issue**: Navigate to the "Issues" tab of the repository and click on "New Issue" to describe your problem or question.
-- **Ask a Question**: You can also ask questions directly in the repository's discussion section or contact the maintainers.
+- **Ask a Question**: You can also ask questions directly in the repository's discussion section.
 
-We appreciate your feedback and are committed to improving our documentation.
+I appreciate your feedback. Feel free to reach out with any questions or suggestions.
