@@ -12,6 +12,9 @@ Welcome to my manuals repository. This repository contains comprehensive guides 
 
 - [**React Project Setup Guide**](Frontend/React-Create-Simple-Project.md): A step-by-step guide for setting up a React project using Vite, including essential configurations and library installations.
 
+- [**Basic Stuff About React**](Frontend/React-The-Basic-Stuff.md): An overview of fundamental concepts and features of React, including JSX, components, state, props, hooks, and more.
+
+
 ### Backend
 
 - [**Creating a Custom User Model in Django**](Backend/Django-Create-Custom-User-Table.md): Instructions on how to create and manage a custom user model in Django, including data backup and migration steps.
